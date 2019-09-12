@@ -1,0 +1,11 @@
+@INPROCEEDINGS{6848142,
+author={K. {Yang} and X. {Jia} and K. {Ren} and R. {Xie} and L. {Huang}},
+booktitle={IEEE INFOCOM 2014 - IEEE Conference on Computer Communications},
+title={Enabling efficient access control with dynamic policy updating for big data in the cloud},
+year={2014},
+volume={},
+number={},
+pages={2013-2021},
+doi={10.1109/INFOCOM.2014.6848142},
+ISSN={},
+month={April},}

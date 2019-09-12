@@ -1,0 +1,11 @@
+@INPROCEEDINGS{6679876,
+	author={R. {Xie} and X. {Jia} and K. {Yang} and B. {Zhang}},
+	booktitle={2013 IEEE 33rd International Conference on Distributed Computing Systems Workshops},
+	title={Energy Saving Virtual Machine Allocation in Cloud Computing},
+	year={2013},
+	volume={},
+	number={},
+	pages={132-137},
+	doi={10.1109/ICDCSW.2013.37},
+	ISSN={},
+	month={July},}

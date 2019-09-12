@@ -1,0 +1,11 @@
+@INPROCEEDINGS{7841558,
+	author={R. {Xie} and Z. {Umair} and X. {Jia}},
+	booktitle={2016 IEEE Global Communications Conference (GLOBECOM)},
+	title={A Wireless Solution for SDN (Software Defined Networking) in Data Center Networks},
+	year={2016},
+	volume={},
+	number={},
+	pages={1-6},
+	doi={10.1109/GLOCOM.2016.7841558},
+	ISSN={},
+	month={Dec},}
