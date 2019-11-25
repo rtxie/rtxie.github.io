@@ -1,13 +1,13 @@
 /*
 Theme Name: Tempera
 Theme URI: https://www.cryoutcreations.eu/wordpress-themes/tempera
-Description: We had to follow a very strict recipe to get Tempera just right. We started with a very solid framework of over 200 settings, added a very light user interface, threw in a couple of mobiles and tablets to give it that responsive elasticity, added over 50 fonts, weren't satisfied so we poured all the Google fonts into the mix, then scattered 12 widget areas for consistency, dissolved a slider and unlimited columns into a customizable Presentation Page then mixed it in as well. We then sprinkled all post formats, 8 layouts including magazine and blog, powdered 40+ social icons and even blended in a customizable top bar for extra density. We also made it translation ready and gave it RTL language support for some cultural diversity. The secret ingredient was love and we might've spilled too much of that. But now Tempera has just the right feel and the right texture and is exactly what your empty WordPress canvas needs. NEW! Tempera now comes in 16 different flavors with preset color schemes!
+Description: We had to follow a very strict recipe to get Tempera just right. We started with a very solid framework of over 200 settings, added a very light user interface, threw in a couple of mobiles and tablets to give it that responsive elasticity, added over 50 fonts, weren't satisfied so we poured all the Google fonts into the mix, then scattered 12 widget areas for consistency, dissolved a slider and unlimited columns into a customizable Presentation Page then mixed it in as well. We then sprinkled all post formats, 8 layouts including magazine and blog, powdered 40+ social icons and even blended in a customizable top bar for extra density. We also made it translation ready and gave it RTL language support for some cultural diversity. The secret ingredient was love and we might've spilled too much of that. But now Tempera has just the right feel and the right texture and is exactly what your empty WordPress canvas needs. NEW! Tempera now comes in 16 different flavors with preset color schemes! * THEME DEMO: http://demos.cryoutcreations.eu/wordpress/tempera/ *
 Author: Cryout Creations
 Author URI: https://www.cryoutcreations.eu
-Version: 1.6.2
+Version: 1.7.2
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
-Tags: one-column, two-columns, three-columns, right-sidebar, left-sidebar, footer-widgets, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, front-page-post-form, full-width-template,  microformats, post-formats, rtl-language-support,  sticky-post, theme-options, threaded-comments, translation-ready, blog, e-commerce, education, entertainment, food-and-drink, news
+Tags: one-column, two-columns, three-columns, right-sidebar, left-sidebar, footer-widgets, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, front-page-post-form, full-width-template,  microformats, post-formats, rtl-language-support,  sticky-post, theme-options, threaded-comments, translation-ready, blog, education, entertainment
 Text Domain: tempera
 
 Tempera WordPress Theme
@@ -48,13 +48,15 @@ time, mark, audio, video {
 }
 
 html {
-	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
 }
 
 *,
 *::before,
 *::after {
-	box-sizing: inherit;
+	-webkit-box-sizing: inherit;
+	        box-sizing: inherit;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -111,8 +113,8 @@ ol, ul {
 .entry-content blockquote {
 	display: block;
 	position: relative;
-	float: none;
-	clear: both;
+/* 	float: none;
+	clear: both; */
 	padding: 30px 30px 30px 80px;
 	font-size: 1.1em;
 	font-style: italic;
@@ -148,6 +150,47 @@ table {
 
 a img {
 	border: none;
+}
+
+/* = Gutenberg
+-------------------------------------------------------------- */
+
+.entry-content .wp-block-archives,
+.entry-content .wp-block-categories,
+.entry-content .wp-block-latest-posts {
+    padding: 0;
+    list-style: none;
+}
+
+.wp-block-quote.is-large, .wp-block-quote.is-style-large {
+	padding: 2em 5em;
+	font-size: 1.2em;
+}
+
+.aligncenter[class^='wp-block']:not([class^='wp-block-cover']) {
+	display: table;
+}
+
+.wp-block-separator {
+	max-width: 25%;
+}
+.wp-block-separator.is-style-wide {
+	max-width: 100%;
+}
+.wp-block-separator.is-style-dots::before {
+	color: inherit;
+}
+
+.wp-block-button {
+	transition: .2s opacity;
+}
+
+.wp-block-button:hover {
+	opacity: 0.85;
+}
+
+.wp-block-pullquote {
+	text-align: inherit;
 }
 
 
@@ -282,7 +325,7 @@ html {
 }
 
 hr {
-	border: 0;
+	border: 1px solid transparent;
 	clear: both;
 	height: 1px;
 }
@@ -292,13 +335,18 @@ hr {
 	margin-left: 1.5em;
 }
 
+.entry-content ul[class^='wp-block'],
+.entry-content [class^='wp-block'] ul {
+	margin-left: 0;
+}
+
 .entry-content ul li,
 .entry-content ol li {
 	padding: 2px 0;
 }
 
 .entry-content ul > li {
-	list-style: circle;
+	list-style-type: circle;
 }
 
 .entry-content ol > li {
@@ -310,18 +358,18 @@ hr {
 }
 
 ol {
-	list-style: decimal;
+	list-style-type: decimal;
 	margin-left: 2.5em;
 
 }
 ol ol {
-	list-style: upper-alpha;
+	list-style-type: upper-alpha;
 }
 ol ol ol {
-	list-style: lower-roman;
+	list-style-type: lower-roman;
 }
 ol ol ol ol {
-	list-style: lower-alpha;
+	list-style-type: lower-alpha;
 }
 ul ul,
 ol ol,
@@ -841,43 +889,43 @@ body.tempera-topbarfixed.admin-bar #topbar { top: 32px; }
 	margin: 20px 0 0;
 }
 
-#content table {
-	border: 0;
+.entry-content table {
+	border: 1px solid transparent;
 	margin: 0 0 24px 0;
 	text-align: left;
 	width: 100%;
 	vertical-align: top;
 }
 
-#content tr {
+.entry-content tr {
 	vertical-align: top;
 }
 
-#content .alternate {
-}
+.entry-content .alternate { }
 
-#content tr th,
-#content thead th {
+.entry-content tr th,
+.entry-content thead th {
 	padding: 9px 24px;
 }
 
-#content tr td {
+.entry-content tr th,
+.entry-content tr td {
 	border-top: 1px solid transparent;
 	padding: 6px 24px;
 }
 
-#content tr td,
-#content tr th,
-#content thead th {
+.entry-content tr td,
+.entry-content tr th,
+.entry-content thead th {
 	border-right: 1px solid transparent;
 }
 
-#content tr td:last-child,
-#content tr th:last-child {
+.entry-content tr td:last-child,
+.entry-content tr th:last-child {
 	border-right: none;
 }
 
-#content tr.odd td {
+.entry-content tr.odd td {
 }
 
 .page-header {
@@ -1336,54 +1384,75 @@ span.edit-link {
 /* =Images
 -------------------------------------------------------------- */
 
-#content img {
-	margin: 0;
-	height: auto;
+.entry-content img {
 	max-width: 100%;
+	height: auto;
 }
 
-#content table img {
+.sidey select {
+    max-width: 100%;
+}
+
+.sidey img {
+    max-width: 100%;
+    height: auto;
+}
+
+.entry-content table img {
 	max-width: inherit;
 }
 
-#content img:hover {
+.entry-content img:hover {
 }
 
-#content .alignleft,
-#content img.alignleft {
-	display: inline;
+.post_thumbnail {
+	max-width: 100%;
+	height: auto;
+}
+
+.alignleft,
+img.alignleft,
+.alignleft img {
 	float: left;
 	margin-right: 24px;
 	margin-top: 4px;
 }
 
-#content .alignright,
-#content img.alignright {
-	display: inline;
+.alignright,
+img.alignright,
+.alignright img {
 	float: right;
 	margin-left: 24px;
 	margin-top: 4px;
 }
 
-#content .aligncenter,
-#content img.aligncenter {
+.aligncenter,
+img.aligncenter,
+.aligncenter img {
 	clear: both;
-	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
+img.aligncenter {
+	display: block;
+}
 
-#content img.alignleft,
-#content img.alignright,
-#content img.aligncenter {
+.entry-content .bbp-forums .aligncenter,
+.entry-content .bbp-forums img.aligncenter {
+	clear: none;
+}
+
+img.alignleft,
+img.alignright,
+img.aligncenter {
 	margin-bottom: 12px;
 }
 
-#content img.alignleft,
-#content img.alignright,
-#content img.aligncenter,
-#content img.alignnone,
-#content .wp-caption img {
+img.alignleft,
+img.alignright,
+img.aligncenter,
+img.alignnone,
+.wp-caption img {
 	transition: all .3s ease-in-out;
 	opacity: 0.99;
 	filter: alpha(opacity=99);
@@ -1391,35 +1460,35 @@ span.edit-link {
 	transition: all .3s ease-in-out;
 }
 
-#content img.alignleft:hover,
-#content img.alignright:hover,
-#content img.aligncenter:hover,
-#content img.alignnone:hover,
-#content .wp-caption img:hover {
+img.alignleft:hover,
+img.alignright:hover,
+img.aligncenter:hover,
+img.alignnone:hover,
+.wp-caption img:hover {
 	opacity: 0.8;
 	filter: alpha(opacity=80);
 }
 
-#content .wp-caption {
+.wp-caption {
 	margin-bottom: 20px;
 	text-align: center;
 	max-width: 100%;
 	position: relative;
 }
 
-#content .wp-caption img {
-	border: none !important;
+.wp-caption img {
+	border: none;
 	padding: 0;
 	width: 100%;
-    box-shadow: none !important;
+    box-shadow: none;
 }
 
-#content .wp-caption > a {
+.wp-caption > a {
 	line-height: 0;
 	display: block;
 }
 
-#content .wp-caption .wp-caption-text {
+.wp-caption .wp-caption-text {
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -1429,7 +1498,7 @@ span.edit-link {
     text-indent: 0;
 }
 
-#content .wp-smiley {
+.wp-smiley {
 	margin: 0;
 	width: auto !important;
 	box-shadow: none !important;
@@ -1438,7 +1507,7 @@ span.edit-link {
     vertical-align: middle;
 }
 
-#content .attachment img { /* single attachment images should be centered */
+.attachment img { /* single attachment images should be centered */
 	display: block;
 	margin: 0 auto;
 	max-width: 96%;
@@ -1637,8 +1706,9 @@ h3#comments-title {
 .commentlist .bypostauthor {
 }
 
-.comment-await {
-	margin-left: 25px;
+.commentlist .comment-await {
+	padding: 10px 0;
+	display: block;
 }
 
 .commentlist .reply a {
@@ -1776,9 +1846,7 @@ h3#reply-title {
 	display: block;
 }
 
-#respond label {
-	display: none;
-}
+#respond label { }
 
 .comment-form-comment textarea {
 	display: block;
@@ -1793,7 +1861,7 @@ h3#reply-title {
 .comment-form-email label,
 .comment-form-url label,
 .comment-form-comment label {
-	display: block;
+	display: none;
 	float: none;
 }
 
@@ -1805,6 +1873,11 @@ h3#reply-title {
 	display: block;
 	float: none;
 	width: 100%;
+}
+
+#respond input + label {
+	margin-left: .5em;
+	margin-right: .5em;
 }
 
 #respond input:hover,
@@ -2067,7 +2140,7 @@ li.menu-footer-search .searchform:hover .searchsubmit {
 	opacity: 1;
 }
 
-/* Callendar */
+/* Calendar */
 #wp-calendar {
 	width: 100%;
 }
@@ -2408,49 +2481,67 @@ article.sticky {
 /* CUSTOM IMAGE BORDER */
 
 .tempera-image-none .entry-content img[class*='align'],
-.tempera-image-none .entry-summary img[class*='align'] {}
+.tempera-image-none .entry-content [class*='wp-block'][class*='align'] img,
+.tempera-image-none .entry-summary img[class*='align'],
+.tempera-image-none .entry-summary [class*='wp-block'][class*='align'] img {}
 
 .tempera-image-one .entry-content img[class*='align'],
-.tempera-image-one .entry-summary img[class*='align'] {
+.tempera-image-one .entry-content [class*='wp-block'][class*='align'] img,
+.tempera-image-one .entry-summary img[class*='align'],
+.tempera-image-one .entry-summary [class*='wp-block'][class*='align'] img {
 	border-bottom: 3px solid transparent;
 }
 
 .tempera-image-two .entry-content img[class*='align'],
-.tempera-image-two .entry-summary img[class*='align'] {
+.tempera-image-two .entry-content [class*='wp-block'][class*='align'] img,
+.tempera-image-two .entry-summary img[class*='align'],
+.tempera-image-two .entry-summary [class*='wp-block'][class*='align'] img {
 	border-bottom: 1px solid transparent;
 	border-top: 1px solid transparent;
 	padding: 2px 0;
 }
 
 .tempera-image-three .entry-content img[class*='align'],
-.tempera-image-three .entry-summary img[class*='align'] {
+.tempera-image-three .entry-content [class*='wp-block'][class*='align'] img,
+.tempera-image-three .entry-summary img[class*='align'],
+.tempera-image-three .entry-summary [class*='wp-block'][class*='align'] img {
 	border: 1px solid #222;
 	padding: 0;
 	box-shadow: 0 0 15px #ccc;
 }
 
 .tempera-image-four .entry-content img[class*='align'],
-.tempera-image-four .entry-summary img[class*='align'] {
+.tempera-image-four .entry-content [class*='wp-block'][class*='align'] img,
+.tempera-image-four .entry-summary img[class*='align'],
+.tempera-image-four .entry-summary [class*='wp-block'][class*='align'] img {
 	padding: 10px;
 	border: 1px solid #DDD;
 	box-shadow: 0 0 2px #CCC;
 }
 .tempera-image-five .entry-content img[class*='align'],
-.tempera-image-five .entry-summary img[class*='align'] {
+.tempera-image-five .entry-content [class*='wp-block'][class*='align'] img,
+.tempera-image-five .entry-summary img[class*='align'],
+.tempera-image-five .entry-summary [class*='wp-block'][class*='align'] img {
 	padding: 6px;
 	background: url(/rtxie.github.io/wp-content/themes/tempera/images/border.png) repeat;
 }
 
 .tempera-image-one .entry-content img[class*='align']:hover,
-.tempera-image-one .entry-summary img[class*='align']:hover {
+.tempera-image-one .entry-content [class*='wp-block'][class*='align'] img:hover,
+.tempera-image-one .entry-summary img[class*='align']:hover,
+.tempera-image-one .entry-summary [class*='wp-block'][class*='align'] img:hover {
 	background-color: #eee;
 }
 .tempera-image-two .entry-content img[class*='align']:hover,
-.tempera-image-two .entry-summary img[class*='align']:hover {
+.tempera-image-two .entry-content [class*='wp-block'][class*='align'] img:hover,
+.tempera-image-two .entry-summary img[class*='align']:hover,
+.tempera-image-two .entry-summary [class*='wp-block'][class*='align'] img:hover {
 	box-shadow: none;
 }
 .tempera-image-three .entry-content img[class*='align']:hover,
-.tempera-image-three .entry-summary img[class*='align']:hover {
+.tempera-image-three .entry-content [class*='wp-block'][class*='align'] img:hover,
+.tempera-image-three .entry-summary img[class*='align']:hover,
+.tempera-image-three .entry-summary [class*='wp-block'][class*='align'] img:hover {
 	box-shadow: none;
 }
 
@@ -2620,6 +2711,7 @@ a.continue-reading-link i.crycon-right-dir {
 	filter: alpha(opacity=8);
 	opacity: 0.8;
 	border-radius: 0;
+	pointer-events: none;
 }
 
 .nivo-caption h2 {
@@ -3136,6 +3228,12 @@ header
 	text-indent: -9999px;
 }
 
+/* jetpack portfolio in widget fix */
+.textwidget .jetpack-portfolio-shortcode .portfolio-entry a,
+.textwidget .jetpack-portfolio-shortcode .portfolio-entry a img {
+    max-width: 100%;
+    height: auto;
+}
 
 /* shareaddy fix */ .sharedaddy ul > li { background: none !important; text-indent: 0 !important; }
 
@@ -3144,6 +3242,7 @@ header
 /* video fix */ #content embed, #content iframe { max-width: 100%; }
 
 /* WooCommerce compatibility styling */
+.woocommerce .quantity .qty { padding: 7px 3px; }
 body.woocommerce #forbottom { padding-top: 20px; }
 body.woocommerce .page-title { display: inherit; margin-bottom: 20px; padding: 10px; }
 body.woocommerce-page .entry-content .checkout ul > li { list-style: none outside none; }
