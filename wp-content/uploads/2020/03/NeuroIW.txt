@@ -1,0 +1,13 @@
+@ARTICLE{8944075,
+author={R. {Xie} and X. {Jia} and K. {Wu}},
+journal={IEEE Journal on Selected Areas in Communications},
+title={Adaptive Online Decision Method for Initial Congestion Window in 5G Mobile Edge Computing Using Deep Reinforcement Learning},
+year={2020},
+volume={38},
+number={2},
+pages={389-403},
+keywords={Congestion control;initial congestion window;deep reinforcement learning;mobile edge computing;software-defined networking},
+doi={10.1109/JSAC.2019.2959187},
+ISSN={1558-0008},
+month={Feb}
+}
