@@ -1001,7 +1001,7 @@ body.tempera-topbarfixed.admin-bar #topbar { top: 32px; }
 }
 
 footer.entry-meta {
-	background: url(/rtxie.github.io/wp-content/themes/tempera/images/dashed-border.png) 0 0 repeat-x;
+	background: url(https://rtxie.github.io/wp-content/themes/tempera/images/dashed-border.png) 0 0 repeat-x;
 	padding-top: .5em;
 }
 
@@ -2523,7 +2523,7 @@ article.sticky {
 .tempera-image-five .entry-summary img[class*='align'],
 .tempera-image-five .entry-summary [class*='wp-block'][class*='align'] img {
 	padding: 6px;
-	background: url(/rtxie.github.io/wp-content/themes/tempera/images/border.png) repeat;
+	background: url(https://rtxie.github.io/wp-content/themes/tempera/images/border.png) repeat;
 }
 
 .tempera-image-one .entry-content img[class*='align']:hover,
@@ -2769,7 +2769,7 @@ Skin Name: Nivo Slider Default Theme
 */
 .theme-default .nivoSlider {
 	position: relative;
-	background: url(/rtxie.github.io/wp-content/themes/tempera/images/nivoslider/loading.gif) no-repeat 50% 50%;
+	background: url(https://rtxie.github.io/wp-content/themes/tempera/images/nivoslider/loading.gif) no-repeat 50% 50%;
     margin-bottom: 50px;
 }
 
@@ -2844,7 +2844,7 @@ Skin Name: Nivo Slider Default Theme
 	width: 50px;
 	height: 60px;
 	padding: 10px;
-	background: url(/rtxie.github.io/wp-content/themes/tempera/images/nivoslider/arrows.png) 8px 10px #fff  no-repeat;
+	background: url(https://rtxie.github.io/wp-content/themes/tempera/images/nivoslider/arrows.png) 8px 10px #fff  no-repeat;
 	text-indent: -9999px;
 	border: 0;
 }
@@ -3209,7 +3209,7 @@ header
 	float: none;
 	clear: both;
 	min-width: 200px;
-	background: url(/rtxie.github.io/wp-content/themes/tempera/images/loading.gif) no-repeat -100px center ;
+	background: url(https://rtxie.github.io/wp-content/themes/tempera/images/loading.gif) no-repeat -100px center ;
 	padding: 10px 20px;
 	border-radius: 5px;
 	margin: 0 auto;
@@ -3224,7 +3224,7 @@ header
 }
 
 #content .cryout_click_loading {
-	background: url(/rtxie.github.io/wp-content/themes/tempera/images/loading.gif) transparent no-repeat center center;
+	background: url(https://rtxie.github.io/wp-content/themes/tempera/images/loading.gif) transparent no-repeat center center;
 	text-indent: -9999px;
 }
 
