@@ -16,21 +16,24 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
-			<item>
-				<title>
-				By: A WordPress Commenter				</title>
-				<link>/rtxie.github.io/2017/12/12/hello-world/#comment-1</link>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: A WordPress Commenter		</title>
+		<link>/rtxie.github.io/2017/12/12/hello-world/#comment-1</link>
+
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Tue, 12 Dec 2017 11:07:57 +0000</pubDate>
 		<guid isPermaLink="false">/rtxie.github.io/?p=1#comment-1</guid>
+
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
 Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-		<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
 Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
 ]]></content:encoded>
-						</item>
-			</channel>
+		
+			</item>
+	</channel>
 </rss>
