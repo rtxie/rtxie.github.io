@@ -64,8 +64,25 @@ body.custom-background { background-color: #ffffff; }
 	document.createElement('footer');
 	</script>
 	<![endif]-->
-	</head>
-<body class="page-template-default page page-id-279 custom-background tempera-image-one caption-dark magazine-layout tempera-menu-left tempera-topbarhide elementor-default elementor-kit-493 elementor-page elementor-page-279">
+	<!-- Dojo Digital Hide Title -->
+<script type="text/javascript">
+	jQuery(document).ready(function($){
+
+		if( $('.entry-title').length != 0 ) {
+			$('.entry-title span.dojodigital_toggle_title').parents('.entry-title:first').hide();
+		} else {
+			$('h1 span.dojodigital_toggle_title').parents('h1:first').hide();
+			$('h2 span.dojodigital_toggle_title').parents('h2:first').hide();
+		}
+
+	});
+</script>
+<noscript><style type="text/css"> .entry-title { display:none !important; }</style></noscript>
+<style type="text/css"> body.dojo-hide-title .entry-title { display:none !important; }</style>
+<!-- END Dojo Digital Hide Title -->
+
+			</head>
+<body class="page-template-default page page-id-279 custom-background tempera-image-one caption-dark magazine-layout tempera-menu-left tempera-topbarhide elementor-default elementor-kit-493 elementor-page elementor-page-279 dojo-hide-title">
 
 
 <div id="wrapper" class="hfeed">
@@ -91,7 +108,7 @@ body.custom-background { background-color: #ffffff; }
 					<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">
 		Skip to content	</a></div>
 	<div id="prime_nav" class="menu"><ul>
-<li ><a href="https://rtxie.github.io/"><span>Home</span></a></li><li class="page_item page-item-279 current_page_item"><a href="https://rtxie.github.io/ch/" aria-current="page"><span>中文</span></a></li>
+<li ><a href="https://rtxie.github.io/"><span>Home</span></a></li><li class="page_item page-item-279 current_page_item"><a href="https://rtxie.github.io/ch/" aria-current="page"><span><span class="dojodigital_toggle_title">中文</span></span></a></li>
 </ul></div>
 			</nav><!-- #access -->
 		</div><!-- #masthead -->
@@ -108,10 +125,10 @@ body.custom-background { background-color: #ffffff; }
 				<section id="container" class="one-column">
 
 			<div id="content" role="main">
-			<div class="breadcrumbs"><a href="https://rtxie.github.io"><i class="crycon-homebread"></i><span class="screen-reader-text">Home</span></a><i class="crycon-angle-right"></i> <span class="current">中文</span></div><!--breadcrumbs-->
+			<div class="breadcrumbs"><a href="https://rtxie.github.io"><i class="crycon-homebread"></i><span class="screen-reader-text">Home</span></a><i class="crycon-angle-right"></i> <span class="current"><span class="dojodigital_toggle_title">中文</span></span></div><!--breadcrumbs-->
 				
 			<div id="post-279" class="post-279 page type-page status-publish hentry">
-									<h1 class="entry-title">中文</h1>
+									<h1 class="entry-title"><span class="dojodigital_toggle_title">中文</span></h1>
 				
 				<div class="entry-content">
 							<div data-elementor-type="wp-page" data-elementor-id="279" class="elementor elementor-279" data-elementor-settings="[]">
