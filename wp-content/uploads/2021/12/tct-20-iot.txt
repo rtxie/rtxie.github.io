@@ -1,0 +1,9 @@
+@ARTICLE{9099808,
+  author={Liu, Chunhui and Liu, Kai and Guo, Songtao and Xie, Ruitao and Lee, Victor C. S. and Son, Sang H.},
+  journal={IEEE Internet of Things Journal}, 
+  title={Adaptive Offloading for Time-Critical Tasks in Heterogeneous Internet of Vehicles}, 
+  year={2020},
+  volume={7},
+  number={9},
+  pages={7999-8011},
+  doi={10.1109/JIOT.2020.2997720}}
