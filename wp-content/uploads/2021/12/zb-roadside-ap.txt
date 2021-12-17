@@ -1,0 +1,11 @@
+@ARTICLE{7299311,
+	author={B. {Zhang} and X. {Jia} and K. {Yang} and R. {Xie}},
+	journal={IEEE Transactions on Vehicular Technology},
+	title={Design of Analytical Model and Algorithm for Optimal Roadside AP Placement in VANETs},
+	year={2016},
+	volume={65},
+	number={9},
+	pages={7708-7718},
+	doi={10.1109/TVT.2015.2491358},
+	ISSN={},
+	month={Sep.},}

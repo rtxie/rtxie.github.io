@@ -1,0 +1,11 @@
+@ARTICLE{6975186,
+	author={R. {Xie} and Y. {Wen} and X. {Jia} and H. {Xie}},
+	journal={IEEE Transactions on Parallel and Distributed Systems},
+	title={Supporting Seamless Virtual Machine Migration via Named Data Networking in Cloud Data Center},
+	year={2015},
+	volume={26},
+	number={12},
+	pages={3485-3497},
+	doi={10.1109/TPDS.2014.2377119},
+	ISSN={},
+	month={Dec},}

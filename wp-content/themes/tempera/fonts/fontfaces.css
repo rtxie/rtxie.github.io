@@ -1,21 +1,21 @@
 @font-face {
     font-family: 'Droid Sans';
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/DroidSans-webfont.eot');
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/DroidSans-webfont.eot#iefix') format('embedded-opentype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/DroidSans-webfont.woff') format('woff'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/DroidSans-webfont.ttf') format('truetype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/DroidSans-webfont.svg#droid_sansregular') format('svg');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/DroidSans-webfont.eot');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/DroidSans-webfont.eot#iefix') format('embedded-opentype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/DroidSans-webfont.woff') format('woff'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/DroidSans-webfont.ttf') format('truetype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/DroidSans-webfont.svg#droid_sansregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Ubuntu Light';
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-light-webfont.eot');
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-light-webfont.eot#iefix') format('embedded-opentype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-light-webfont.woff') format('woff'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-light-webfont.ttf') format('truetype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-light-webfont.svg#ubuntulight') format('svg');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-light-webfont.eot');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-light-webfont.eot#iefix') format('embedded-opentype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-light-webfont.woff') format('woff'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-light-webfont.ttf') format('truetype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-light-webfont.svg#ubuntulight') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -24,11 +24,11 @@
 
 @font-face {
     font-family: 'Ubuntu';
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-regular-webfont.eot');
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-regular-webfont.eot#iefix') format('embedded-opentype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-regular-webfont.woff') format('woff'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-regular-webfont.ttf') format('truetype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-regular-webfont.svg#ubunturegular') format('svg');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-regular-webfont.eot');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-regular-webfont.eot#iefix') format('embedded-opentype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-regular-webfont.woff') format('woff'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-regular-webfont.ttf') format('truetype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/ubuntu-regular-webfont.svg#ubunturegular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -36,11 +36,11 @@
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Regular-webfont.eot');
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Regular-webfont.eot#iefix') format('embedded-opentype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Regular-webfont.woff') format('woff'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Regular-webfont.ttf') format('truetype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Regular-webfont.svg#OpenSansRegular') format('svg');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Regular-webfont.eot');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Regular-webfont.eot#iefix') format('embedded-opentype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Regular-webfont.woff') format('woff'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Regular-webfont.svg#OpenSansRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -48,11 +48,11 @@
 
 @font-face {
     font-family: 'Open Sans Light';
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Light-webfont.eot');
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Light-webfont.eot#iefix') format('embedded-opentype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Light-webfont.woff') format('woff'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Light-webfont.ttf') format('truetype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Light-webfont.svg#OpenSansLight') format('svg');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Light-webfont.eot');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Light-webfont.eot#iefix') format('embedded-opentype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Light-webfont.woff') format('woff'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Light-webfont.ttf') format('truetype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/OpenSans-Light-webfont.svg#OpenSansLight') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -60,11 +60,11 @@
 
 @font-face {
     font-family: 'Bebas Neue';
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/BebasNeue-webfont.eot');
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/BebasNeue-webfont.eot#iefix') format('embedded-opentype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/BebasNeue-webfont.woff') format('woff'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/BebasNeue-webfont.ttf') format('truetype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/BebasNeue-webfont.eot');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/BebasNeue-webfont.eot#iefix') format('embedded-opentype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/BebasNeue-webfont.woff') format('woff'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/BebasNeue-webfont.ttf') format('truetype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -72,11 +72,11 @@
 
 @font-face {
     font-family: 'Yanone Kaffeesatz Regular';
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-regular-webfont.eot');
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-regular-webfont.eot#iefix') format('embedded-opentype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-regular-webfont.woff') format('woff'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-regular-webfont.ttf') format('truetype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-regular-webfont.svg#yanone_kaffeesatzregular') format('svg');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-regular-webfont.eot');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-regular-webfont.eot#iefix') format('embedded-opentype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-regular-webfont.woff') format('woff'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-regular-webfont.ttf') format('truetype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-regular-webfont.svg#yanone_kaffeesatzregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -84,11 +84,11 @@
 
 @font-face {
     font-family: 'Yanone Kaffeesatz Light';
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-light-webfont.eot');
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-light-webfont.eot#iefix') format('embedded-opentype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-light-webfont.woff') format('woff'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-light-webfont.ttf') format('truetype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-light-webfont.svg#yanone_kaffeesatzlight') format('svg');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-light-webfont.eot');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-light-webfont.eot#iefix') format('embedded-opentype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-light-webfont.woff') format('woff'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-light-webfont.ttf') format('truetype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/yanonekaffeesatz-light-webfont.svg#yanone_kaffeesatzlight') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -96,11 +96,11 @@
 
 @font-face {
     font-family: 'Oswald Light';
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Light-webfont.eot');
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Light-webfont.eot#iefix') format('embedded-opentype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Light-webfont.woff') format('woff'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Light-webfont.ttf') format('truetype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Light-webfont.svg#OswaldLight') format('svg');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Light-webfont.eot');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Light-webfont.eot#iefix') format('embedded-opentype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Light-webfont.woff') format('woff'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Light-webfont.ttf') format('truetype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Light-webfont.svg#OswaldLight') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -108,11 +108,11 @@
 
 @font-face {
     font-family: 'Oswald';
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Regular-webfont.eot');
-    src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Regular-webfont.eot#iefix') format('embedded-opentype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Regular-webfont.woff') format('woff'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Regular-webfont.ttf') format('truetype'),
-         url('https://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Regular-webfont.svg#OswaldBook') format('svg');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Regular-webfont.eot');
+    src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Regular-webfont.eot#iefix') format('embedded-opentype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Regular-webfont.woff') format('woff'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Regular-webfont.ttf') format('truetype'),
+         url('http://rtxie.github.io/wp-content/themes/tempera/fonts/Oswald-Regular-webfont.svg#OswaldBook') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -121,11 +121,11 @@
 /* ICON FONT - ELUSIVE */
 @font-face {
   font-family: 'elusive';
-  src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/elusive.eot');
-  src: url('https://rtxie.github.io/wp-content/themes/tempera/fonts/elusive.eot#iefix') format('embedded-opentype'),
-       url('https://rtxie.github.io/wp-content/themes/tempera/fonts/elusive.woff') format('woff'),
-       url('https://rtxie.github.io/wp-content/themes/tempera/fonts/elusive.ttf') format('truetype'),
-       url('https://rtxie.github.io/wp-content/themes/tempera/fonts/elusive.svg#elusive') format('svg');
+  src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/elusive.eot');
+  src: url('http://rtxie.github.io/wp-content/themes/tempera/fonts/elusive.eot#iefix') format('embedded-opentype'),
+       url('http://rtxie.github.io/wp-content/themes/tempera/fonts/elusive.woff') format('woff'),
+       url('http://rtxie.github.io/wp-content/themes/tempera/fonts/elusive.ttf') format('truetype'),
+       url('http://rtxie.github.io/wp-content/themes/tempera/fonts/elusive.svg#elusive') format('svg');
   font-weight: normal;
   font-style: normal;
 }
