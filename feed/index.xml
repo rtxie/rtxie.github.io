@@ -22,7 +22,7 @@
 	<item>
 		<title>Hello world!</title>
 		<link>https://rtxie.github.io/2021/12/16/hello-world/</link>
-					<comments>https://rtxie.github.io/2021/12/16/hello-world/#comments</comments>
+					<comments>https://rtxie.github.io/2021/12/16/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[doris]]></dc:creator>
 		<pubDate>Thu, 16 Dec 2021 14:42:16 +0000</pubDate>
@@ -35,7 +35,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://rtxie.github.io/2021/12/16/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
