@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Offloading; Time-Critical Tasks; Vehicles | Ruitao Xie&#39;s Homepage</title>
+    <link>https://rtxie.github.io/en/tag/offloading-time-critical-tasks-vehicles/</link>
+      <atom:link href="https://rtxie.github.io/en/tag/offloading-time-critical-tasks-vehicles/index.xml" rel="self" type="application/rss+xml" />
+    <description>Offloading; Time-Critical Tasks; Vehicles</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rtxie.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Offloading; Time-Critical Tasks; Vehicles</title>
+      <link>https://rtxie.github.io/en/tag/offloading-time-critical-tasks-vehicles/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive Offloading for Time-Critical Tasks in Heterogeneous Internet of Vehicles</title>
+      <link>https://rtxie.github.io/en/publication/20-iot-offloading/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/20-iot-offloading/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

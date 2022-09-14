@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Congestion Control; Edge Computing; Deep Reinforcement Learning | Ruitao Xie&#39;s Homepage</title>
+    <link>https://rtxie.github.io/en/tag/congestion-control-edge-computing-deep-reinforcement-learning/</link>
+      <atom:link href="https://rtxie.github.io/en/tag/congestion-control-edge-computing-deep-reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Congestion Control; Edge Computing; Deep Reinforcement Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rtxie.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Congestion Control; Edge Computing; Deep Reinforcement Learning</title>
+      <link>https://rtxie.github.io/en/tag/congestion-control-edge-computing-deep-reinforcement-learning/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive Online Decision Method for Initial Congestion Window in 5G Mobile Edge Computing Using Deep Reinforcement Learning</title>
+      <link>https://rtxie.github.io/en/publication/20-jsac-neuroiw/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/20-jsac-neuroiw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wireless Networks; WiFi; ZigBee; Cross-Technology Communication | Ruitao Xie&#39;s Homepage</title>
+    <link>https://rtxie.github.io/en/tag/wireless-networks-wifi-zigbee-cross-technology-communication/</link>
+      <atom:link href="https://rtxie.github.io/en/tag/wireless-networks-wifi-zigbee-cross-technology-communication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wireless Networks; WiFi; ZigBee; Cross-Technology Communication</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Sep 2022 15:13:44 +0000</lastBuildDate>
+    <image>
+      <url>https://rtxie.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Wireless Networks; WiFi; ZigBee; Cross-Technology Communication</title>
+      <link>https://rtxie.github.io/en/tag/wireless-networks-wifi-zigbee-cross-technology-communication/</link>
+    </image>
+    
+    <item>
+      <title>Cross-Technology Communication for Heterogeneous Wireless Devices through Symbol-Level Energy Modulation</title>
+      <link>https://rtxie.github.io/en/publication/21-tmc-ctc/</link>
+      <pubDate>Tue, 13 Sep 2022 15:13:44 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/21-tmc-ctc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

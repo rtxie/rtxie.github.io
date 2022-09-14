@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CNN; Deep Mobile Sensing; Energy Efficiency | Ruitao Xie&#39;s Homepage</title>
+    <link>https://rtxie.github.io/en/tag/cnn-deep-mobile-sensing-energy-efficiency/</link>
+      <atom:link href="https://rtxie.github.io/en/tag/cnn-deep-mobile-sensing-energy-efficiency/index.xml" rel="self" type="application/rss+xml" />
+    <description>CNN; Deep Mobile Sensing; Energy Efficiency</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rtxie.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>CNN; Deep Mobile Sensing; Energy Efficiency</title>
+      <link>https://rtxie.github.io/en/tag/cnn-deep-mobile-sensing-energy-efficiency/</link>
+    </image>
+    
+    <item>
+      <title>Energy Efficiency Enhancement for CNN-based Deep Mobile Sensing</title>
+      <link>https://rtxie.github.io/en/publication/19-wcm-e3-cnn/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/19-wcm-e3-cnn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

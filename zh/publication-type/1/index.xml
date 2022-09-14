@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | 谢瑞桃的主页</title>
+    <link>https://rtxie.github.io/zh/publication-type/1/</link>
+      <atom:link href="https://rtxie.github.io/zh/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 10 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rtxie.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://rtxie.github.io/zh/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>SledZig: Boosting Cross-Technology Coexistence for Low-Power Wireless Devices</title>
+      <link>https://rtxie.github.io/zh/publication/22-icdcs-sledzig/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/zh/publication/22-icdcs-sledzig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Wireless Solution for SDN (Software Defined Networking) in Data Center Networks</title>
+      <link>https://rtxie.github.io/zh/publication/16-globecom-sdn/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/zh/publication/16-globecom-sdn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Efficient Access Control with Dynamic Policy Updating for Big Data in the Cloud</title>
+      <link>https://rtxie.github.io/zh/publication/14-infocom-ac/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/zh/publication/14-infocom-ac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy Saving Virtual Machine Allocation in Cloud Computing</title>
+      <link>https://rtxie.github.io/zh/publication/13-icdcs-vma/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/zh/publication/13-icdcs-vma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-path Routing and Stream Scheduling with Spatial Multiplexing and Interference Cancellation in MIMO Networks</title>
+      <link>https://rtxie.github.io/zh/publication/13-icdcsw-mimo/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/zh/publication/13-icdcsw-mimo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimum Transmission Data Gathering Trees for Compressive Sensing in Wireless Sensor Networks</title>
+      <link>https://rtxie.github.io/zh/publication/11-globecom-data-gathering/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/zh/publication/11-globecom-data-gathering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

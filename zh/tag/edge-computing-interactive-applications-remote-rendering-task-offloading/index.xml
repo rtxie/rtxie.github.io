@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edge Computing; Interactive Applications; Remote Rendering; Task Offloading | 谢瑞桃的主页</title>
+    <link>https://rtxie.github.io/zh/tag/edge-computing-interactive-applications-remote-rendering-task-offloading/</link>
+      <atom:link href="https://rtxie.github.io/zh/tag/edge-computing-interactive-applications-remote-rendering-task-offloading/index.xml" rel="self" type="application/rss+xml" />
+    <description>Edge Computing; Interactive Applications; Remote Rendering; Task Offloading</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 13 Sep 2022 15:13:45 +0000</lastBuildDate>
+    <image>
+      <url>https://rtxie.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Edge Computing; Interactive Applications; Remote Rendering; Task Offloading</title>
+      <link>https://rtxie.github.io/zh/tag/edge-computing-interactive-applications-remote-rendering-task-offloading/</link>
+    </image>
+    
+    <item>
+      <title>Sharing-Aware Task Offloading of Remote Rendering for Interactive Applications in Mobile Edge Computing</title>
+      <link>https://rtxie.github.io/zh/publication/21-tcc-ta/</link>
+      <pubDate>Tue, 13 Sep 2022 15:13:45 +0000</pubDate>
+      <guid>https://rtxie.github.io/zh/publication/21-tcc-ta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

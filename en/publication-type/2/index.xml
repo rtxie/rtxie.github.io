@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Ruitao Xie&#39;s Homepage</title>
+    <link>https://rtxie.github.io/en/publication-type/2/</link>
+      <atom:link href="https://rtxie.github.io/en/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rtxie.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://rtxie.github.io/en/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>QoS-Aware Scheduling of Remote Rendering for Interactive Multimedia Applications in Edge Computing</title>
+      <link>https://rtxie.github.io/en/publication/22-tpds-qos-scheduling/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/22-tpds-qos-scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ET2FA: A Hybrid Heuristic Algorithm for Deadline-constrained Workflow Scheduling in Cloud</title>
+      <link>https://rtxie.github.io/en/publication/22-tsc-et2ef/</link>
+      <pubDate>Tue, 13 Sep 2022 15:14:02 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/22-tsc-et2ef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Robust WiFi Fingerprint-Based Vehicle Tracking in Dynamic Indoor Parking Environments: An Online Learning Framework</title>
+      <link>https://rtxie.github.io/en/publication/22-tmc-vehicle-tracking/</link>
+      <pubDate>Tue, 13 Sep 2022 15:14:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/22-tmc-vehicle-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharing-Aware Task Offloading of Remote Rendering for Interactive Applications in Mobile Edge Computing</title>
+      <link>https://rtxie.github.io/en/publication/21-tcc-ta/</link>
+      <pubDate>Tue, 13 Sep 2022 15:13:45 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/21-tcc-ta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain-Based Decentralized Public Auditing for Cloud Storage</title>
+      <link>https://rtxie.github.io/en/publication/21-tcc-auditing/</link>
+      <pubDate>Tue, 13 Sep 2022 15:13:44 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/21-tcc-auditing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Technology Communication for Heterogeneous Wireless Devices through Symbol-Level Energy Modulation</title>
+      <link>https://rtxie.github.io/en/publication/21-tmc-ctc/</link>
+      <pubDate>Tue, 13 Sep 2022 15:13:44 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/21-tmc-ctc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Lane-Level Map Building via Vehicle-Based Crowdsourcing</title>
+      <link>https://rtxie.github.io/en/publication/22-tits-crowdsourcing/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/22-tits-crowdsourcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Offloading for Time-Critical Tasks in Heterogeneous Internet of Vehicles</title>
+      <link>https://rtxie.github.io/en/publication/20-iot-offloading/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/20-iot-offloading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Online Decision Method for Initial Congestion Window in 5G Mobile Edge Computing Using Deep Reinforcement Learning</title>
+      <link>https://rtxie.github.io/en/publication/20-jsac-neuroiw/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/20-jsac-neuroiw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy Efficiency Enhancement for CNN-based Deep Mobile Sensing</title>
+      <link>https://rtxie.github.io/en/publication/19-wcm-e3-cnn/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/19-wcm-e3-cnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Transfer Scheduling for Maximizing Throughput of Big-Data Computing in Cloud Systems</title>
+      <link>https://rtxie.github.io/en/publication/18-tcc/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/18-tcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Analytical Model and Algorithm for Optimal Roadside AP Placement in VANETs</title>
+      <link>https://rtxie.github.io/en/publication/16-tvt-ap/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/16-tvt-ap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Seamless Virtual Machine Migration via Named Data Networking in Cloud Data Center</title>
+      <link>https://rtxie.github.io/en/publication/15-tpds-vmm/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/15-tpds-vmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transmission-Efficient Clustering Method for Wireless Sensor Networks Using Compressive Sensing</title>
+      <link>https://rtxie.github.io/en/publication/14-tpds-clustering/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/14-tpds-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAC-MACS: Effective Data Access Control for Multiauthority Cloud Storage Systems</title>
+      <link>https://rtxie.github.io/en/publication/13-tifs-dac/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/13-tifs-dac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

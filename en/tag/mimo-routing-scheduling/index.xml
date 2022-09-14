@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MIMO; Routing; Scheduling | Ruitao Xie&#39;s Homepage</title>
+    <link>https://rtxie.github.io/en/tag/mimo-routing-scheduling/</link>
+      <atom:link href="https://rtxie.github.io/en/tag/mimo-routing-scheduling/index.xml" rel="self" type="application/rss+xml" />
+    <description>MIMO; Routing; Scheduling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rtxie.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>MIMO; Routing; Scheduling</title>
+      <link>https://rtxie.github.io/en/tag/mimo-routing-scheduling/</link>
+    </image>
+    
+    <item>
+      <title>Multi-path Routing and Stream Scheduling with Spatial Multiplexing and Interference Cancellation in MIMO Networks</title>
+      <link>https://rtxie.github.io/en/publication/13-icdcsw-mimo/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/13-icdcsw-mimo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

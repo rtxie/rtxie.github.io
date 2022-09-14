@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compressive Sensing; Clustering Routing; Wireless Sensor Networks | 谢瑞桃的主页</title>
+    <link>https://rtxie.github.io/zh/tag/compressive-sensing-clustering-routing-wireless-sensor-networks/</link>
+      <atom:link href="https://rtxie.github.io/zh/tag/compressive-sensing-clustering-routing-wireless-sensor-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Compressive Sensing; Clustering Routing; Wireless Sensor Networks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Mar 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rtxie.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Compressive Sensing; Clustering Routing; Wireless Sensor Networks</title>
+      <link>https://rtxie.github.io/zh/tag/compressive-sensing-clustering-routing-wireless-sensor-networks/</link>
+    </image>
+    
+    <item>
+      <title>Transmission-Efficient Clustering Method for Wireless Sensor Networks Using Compressive Sensing</title>
+      <link>https://rtxie.github.io/zh/publication/14-tpds-clustering/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/zh/publication/14-tpds-clustering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

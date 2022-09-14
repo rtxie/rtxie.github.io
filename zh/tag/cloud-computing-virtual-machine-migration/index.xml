@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Computing; Virtual Machine Migration | 谢瑞桃的主页</title>
+    <link>https://rtxie.github.io/zh/tag/cloud-computing-virtual-machine-migration/</link>
+      <atom:link href="https://rtxie.github.io/zh/tag/cloud-computing-virtual-machine-migration/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cloud Computing; Virtual Machine Migration</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rtxie.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Cloud Computing; Virtual Machine Migration</title>
+      <link>https://rtxie.github.io/zh/tag/cloud-computing-virtual-machine-migration/</link>
+    </image>
+    
+    <item>
+      <title>Supporting Seamless Virtual Machine Migration via Named Data Networking in Cloud Data Center</title>
+      <link>https://rtxie.github.io/zh/publication/15-tpds-vmm/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/zh/publication/15-tpds-vmm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

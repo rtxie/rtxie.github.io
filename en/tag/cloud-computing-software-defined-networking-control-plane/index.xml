@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Computing; Software Defined Networking; Control Plane | Ruitao Xie&#39;s Homepage</title>
+    <link>https://rtxie.github.io/en/tag/cloud-computing-software-defined-networking-control-plane/</link>
+      <atom:link href="https://rtxie.github.io/en/tag/cloud-computing-software-defined-networking-control-plane/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cloud Computing; Software Defined Networking; Control Plane</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rtxie.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Cloud Computing; Software Defined Networking; Control Plane</title>
+      <link>https://rtxie.github.io/en/tag/cloud-computing-software-defined-networking-control-plane/</link>
+    </image>
+    
+    <item>
+      <title>A Wireless Solution for SDN (Software Defined Networking) in Data Center Networks</title>
+      <link>https://rtxie.github.io/en/publication/16-globecom-sdn/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/en/publication/16-globecom-sdn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Access Control; Cloud Computing | 谢瑞桃的主页</title>
+    <link>https://rtxie.github.io/zh/tag/access-control-cloud-computing/</link>
+      <atom:link href="https://rtxie.github.io/zh/tag/access-control-cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Access Control; Cloud Computing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 01 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rtxie.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Access Control; Cloud Computing</title>
+      <link>https://rtxie.github.io/zh/tag/access-control-cloud-computing/</link>
+    </image>
+    
+    <item>
+      <title>Enabling Efficient Access Control with Dynamic Policy Updating for Big Data in the Cloud</title>
+      <link>https://rtxie.github.io/zh/publication/14-infocom-ac/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/zh/publication/14-infocom-ac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAC-MACS: Effective Data Access Control for Multiauthority Cloud Storage Systems</title>
+      <link>https://rtxie.github.io/zh/publication/13-tifs-dac/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://rtxie.github.io/zh/publication/13-tifs-dac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
