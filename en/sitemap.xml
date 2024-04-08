@@ -4,6 +4,66 @@
   
   
   <url>
+    <loc>https://rtxie.github.io/en/computer-network/</loc><lastmod>2023-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://rtxie.github.io/zh/computer-network/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://rtxie.github.io/en/computer-network/"
+    /></url>
+  <url>
+    <loc>https://rtxie.github.io/en/computer-network/arp/</loc><lastmod>2024-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://rtxie.github.io/zh/computer-network/arp/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://rtxie.github.io/en/computer-network/arp/"
+    /></url>
+  <url>
+    <loc>https://rtxie.github.io/en/computer-network/dns/</loc><lastmod>2024-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://rtxie.github.io/zh/computer-network/dns/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://rtxie.github.io/en/computer-network/dns/"
+    /></url>
+  <url>
+    <loc>https://rtxie.github.io/en/computer-network/routing/</loc><lastmod>2024-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://rtxie.github.io/zh/computer-network/routing/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://rtxie.github.io/en/computer-network/routing/"
+    /></url>
+  <url>
+    <loc>https://rtxie.github.io/en/computer-network/tcp/</loc><lastmod>2024-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://rtxie.github.io/zh/computer-network/tcp/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://rtxie.github.io/en/computer-network/tcp/"
+    /></url>
+  <url>
+    <loc>https://rtxie.github.io/en/computer-network/tcp-timer/</loc><lastmod>2024-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://rtxie.github.io/zh/computer-network/tcp-timer/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://rtxie.github.io/en/computer-network/tcp-timer/"
+    /></url>
+  <url>
     <loc>https://rtxie.github.io/en/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="zh"

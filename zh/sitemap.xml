@@ -4,13 +4,65 @@
   
   
   <url>
-    <loc>https://rtxie.github.io/zh/course/computer-network/</loc><lastmod>2023-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://rtxie.github.io/zh/computer-network/</loc><lastmod>2023-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://rtxie.github.io/en/computer-network/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://rtxie.github.io/zh/computer-network/"
+    /></url>
   <url>
-    <loc>https://rtxie.github.io/zh/course/computer-network/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://rtxie.github.io/zh/computer-network/arp/</loc><lastmod>2024-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://rtxie.github.io/en/computer-network/arp/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://rtxie.github.io/zh/computer-network/arp/"
+    /></url>
   <url>
-    <loc>https://rtxie.github.io/zh/course/computer-network/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://rtxie.github.io/zh/computer-network/dns/</loc><lastmod>2024-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://rtxie.github.io/en/computer-network/dns/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://rtxie.github.io/zh/computer-network/dns/"
+    /></url>
   <url>
-    <loc>https://rtxie.github.io/zh/course/computer-network/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://rtxie.github.io/zh/computer-network/routing/</loc><lastmod>2024-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://rtxie.github.io/en/computer-network/routing/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://rtxie.github.io/zh/computer-network/routing/"
+    /></url>
+  <url>
+    <loc>https://rtxie.github.io/zh/computer-network/tcp/</loc><lastmod>2024-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://rtxie.github.io/en/computer-network/tcp/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://rtxie.github.io/zh/computer-network/tcp/"
+    /></url>
+  <url>
+    <loc>https://rtxie.github.io/zh/computer-network/tcp-timer/</loc><lastmod>2024-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://rtxie.github.io/en/computer-network/tcp-timer/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://rtxie.github.io/zh/computer-network/tcp-timer/"
+    /></url>
   <url>
     <loc>https://rtxie.github.io/zh/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
@@ -41,10 +93,6 @@
       hreflang="zh"
       href="https://rtxie.github.io/zh/"
     /></url>
-  <url>
-    <loc>https://rtxie.github.io/zh/course/discrete-math/</loc><lastmod>2023-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://rtxie.github.io/zh/course/</loc><lastmod>2023-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rtxie.github.io/zh/publication/</loc><lastmod>2022-09-13T23:14:03+08:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
@@ -265,10 +313,6 @@
       hreflang="zh"
       href="https://rtxie.github.io/zh/publication/22-tits-crowdsourcing/"
     /></url>
-  <url>
-    <loc>https://rtxie.github.io/zh/tag/data-visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://rtxie.github.io/zh/tag/statistics/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rtxie.github.io/zh/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
